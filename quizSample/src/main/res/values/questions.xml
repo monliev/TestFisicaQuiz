@@ -1,0 +1,1485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question_0_question">Quale dei seguenti gruppi di grandezze fisiche comprende solo grandezze fondamentali (e non derivate) del
+Sistema Internazionale?</string>
+    <string name="question_0_answer1">Corrente elettrica, massa, lunghezza e tempo</string>
+    <string name="question_0_answer2">Resistenza elettrica, lunghezza, massa e tempo</string>
+    <string name="question_0_answer3">Lunghezza, massa, tempo e forza</string>
+    <string name="question_0_answer4">Lunghezza, massa, temperatura e forza</string>
+    <string name="question_0_answer5">Temperatura, corrente elettrica, calore e tempo</string>
+    <string name="question_0_explanation"></string>
+    <string name="question_0_translated">false</string>
+
+    <string name="question_1_question">Nel sistema cgs (cm, g, s) l\'unità di misura dell\'energia è:</string>
+    <string name="question_1_answer1">Watt</string>
+    <string name="question_1_answer2">Dina</string>
+    <string name="question_1_answer3">Erg</string>
+    <string name="question_1_answer4">Joule</string>
+    <string name="question_1_answer5">Caloria</string>
+    <string name="question_1_explanation"></string>
+    <string name="question_1_translated">false</string>
+
+    <string name="question_2_question">Per conoscere la forza esercitata da un oggetto dal peso di 10 newton, appoggiato sul pavimento di una stanza,
+occorre conoscere:</string>
+    <string name="question_2_answer1">niente altro</string>
+    <string name="question_2_answer2">l\'area della superficie su cui poggia il corpo</string>
+    <string name="question_2_answer3">l\'area della superficie su cui poggia il corpo e la posizione del baricentro</string>
+    <string name="question_2_answer4">la densità del corpo</string>
+    <string name="question_2_answer5">il volume del corpo</string>
+    <string name="question_2_explanation"></string>
+    <string name="question_2_translated">false</string>
+
+    <string name="question_3_question">Quali delle seguenti grandezze ha un carattere vettoriale?</string>
+    <string name="question_3_answer1">Energia cinetica</string>
+    <string name="question_3_answer2"> Massa</string>
+    <string name="question_3_answer3">Lavoro</string>
+    <string name="question_3_answer4">Temperatura</string>
+    <string name="question_3_answer5">Nessuna delle precedenti</string>
+    <string name="question_3_explanation"></string>
+    <string name="question_3_translated">false</string>
+
+    <string name="question_4_question">Nel Sistema Internazionale delle Unità di Misura SI, una pressione P si misura in pascal e un volume V in
+metri cubi. In quali unità di misura dello stesso sistema viene quindi misurato il prodotto (P . V)?</string>
+    <string name="question_4_answer1">Joule</string>
+    <string name="question_4_answer2">Watt</string>
+    <string name="question_4_answer3">Kelvin</string>
+    <string name="question_4_answer4">Newton</string>
+    <string name="question_4_answer5">È adimensionale</string>
+    <string name="question_4_explanation"></string>
+    <string name="question_4_translated">false</string>
+
+    <string name="question_5_question">La pressione di un\'atmosfera è:</string>
+    <string name="question_5_answer1">la pressione a livello del mare in qualsiasi giorno dell\'anno</string>
+    <string name="question_5_answer2">la pressione esercitata da una colonna d\'acqua di 76 m d\'altezza</string>
+    <string name="question_5_answer3">la pressione atmosferica a 76 m dal livello del mare a 4 °C</string>
+    <string name="question_5_answer4">la pressione esercitata da una colonna di mercurio di 76 cm d\'altezza a 0 °C</string>
+    <string name="question_5_answer5">la pressione a 7,6 m di profondità sotto il livello del mare</string>
+    <string name="question_5_explanation"></string>
+    <string name="question_5_translated">false</string>
+
+    <string name="question_6_question">La frequenza f in un moto armonico è legata al periodo T dalla relazione:</string>
+    <string name="question_6_answer1">f = T-1</string>
+    <string name="question_6_answer2">f = 2[pigreco]T</string>
+    <string name="question_6_answer3">f = 2[pigreco]/T</string>
+    <string name="question_6_answer4">f = T</string>
+    <string name="question_6_answer5">F = T/(2[pigreco])</string>
+    <string name="question_6_explanation"></string>
+    <string name="question_6_translated">false</string>
+
+    <string name="question_7_question">Un micron corrisponde a:</string>
+    <string name="question_7_answer1">10-6 m</string>
+    <string name="question_7_answer2">10+6 m</string>
+    <string name="question_7_answer3">10-4 m</string>
+    <string name="question_7_answer4">10+4 m</string>
+    <string name="question_7_answer5">10-10 m</string>
+    <string name="question_7_explanation"></string>
+    <string name="question_7_translated">false</string>
+
+    <string name="question_8_question">Dire quale dei seguenti campi di forze NON è conservativo:</string>
+    <string name="question_8_answer1">gravitazionale</string>
+    <string name="question_8_answer2">elettrostatico</string>
+    <string name="question_8_answer3">magnetico</string>
+    <string name="question_8_answer4">campo di forza costante</string>
+    <string name="question_8_answer5">nessuno dei precedenti</string>
+    <string name="question_8_explanation">Venezuela</string>
+    <string name="question_8_translated">false</string>
+
+    <string name="question_9_question">In un bicchiere sono contenuti acqua e un cubetto di ghiaccio galleggiante. Se il ghiaccio fonde (senza
+variazioni di temperatura dell\'acqua) il livello dell\'acqua:</string>
+    <string name="question_9_answer1">rimane invariato</string>
+    <string name="question_9_answer2">aumenta, essendoci più acqua di prima</string>
+    <string name="question_9_answer3">diminuisce, perché l\'acqua allo stato di ghiaccio ha un volume maggiore che allo stato liquido</string>
+    <string name="question_9_answer4">varia a seconda del rapporto tra i volumi del ghiaccio e dell\'acqua</string>
+    <string name="question_9_answer5">senza variazione di temperatura dell\'acqua il ghiaccio non può fondere</string>
+    <string name="question_9_explanation">MP3</string>
+    <string name="question_9_translated">false</string>
+
+    <string name="question_10_question">Un corpo ha una certa massa M. Se viene portato sulla Luna, la sua massa:</string>
+    <string name="question_10_answer1">non varia</string>
+    <string name="question_10_answer2">diminuisce</string>
+    <string name="question_10_answer3">aumenta</string>
+    <string name="question_10_answer4">si annulla</string>
+    <string name="question_10_answer5">dipende dalla densità dell\'atmosfera lunare</string>
+    <string name="question_10_explanation"></string>
+    <string name="question_10_translated">false</string>
+
+    <string name="question_11_question">10 cm3 di acqua hanno una massa praticamente uguale a:</string>
+    <string name="question_11_answer1">1 g</string>
+    <string name="question_11_answer2">10 g</string>
+    <string name="question_11_answer3">1 kg</string>
+    <string name="question_11_answer4">10 kg</string>
+    <string name="question_11_answer5">1 mg</string>
+    <string name="question_11_explanation">from the Latin Aurum</string>
+    <string name="question_11_translated">false</string>
+
+    <string name="question_12_question">In un moto circolare uniforme il periodo T vale 0,1 s. Quanto vale la frequenza?</string>
+    <string name="question_12_answer1">0,1 s</string>
+    <string name="question_12_answer2">10 s-1</string>
+    <string name="question_12_answer3">0,2 [pigreco]s</string>
+    <string name="question_12_answer4">[pigreco]s-1</string>
+    <string name="question_12_answer5">0,1 radianti</string>
+    <string name="question_12_explanation">from the Latin Argentum</string>
+    <string name="question_12_translated">false</string>
+
+    <string name="question_13_question">Due corpi di eguale densità debbono necessariamente avere:</string>
+    <string name="question_13_answer1">stessa massa</string>
+    <string name="question_13_answer2">stesso volume</string>
+    <string name="question_13_answer3">massa e volume proporzionali</string>
+    <string name="question_13_answer4">massa e volume inversamente proporzionali</string>
+    <string name="question_13_answer5">nessuna delle precedenti risposte</string>
+    <string name="question_13_explanation">from the Latin Hydragyrum</string>
+    <string name="question_13_translated">false</string>
+
+    <string name="question_14_question">Una velocità di 180 m/s equivale a:</string>
+    <string name="question_14_answer1">6,48 km/h</string>
+    <string name="question_14_answer2">500 km/h</string>
+    <string name="question_14_answer3">64,8 km/h</string>
+    <string name="question_14_answer4">50 km/h</string>
+    <string name="question_14_answer5">648 km/h</string>
+    <string name="question_14_explanation"></string>
+    <string name="question_14_translated">false</string>
+
+    <string name="question_15_question">Un sistema qualunque di forze applicate ad un corpo rigido, in generale:</string>
+    <string name="question_15_answer1">può ricondursi alla forza risultante applicata nel baricentro</string>
+    <string name="question_15_answer2">può ridursi alla risultante delle forze e ad una sola coppia</string>
+    <string name="question_15_answer3">determina una traslazione del corpo</string>
+    <string name="question_15_answer4">provoca una deformazione del corpo</string>
+    <string name="question_15_answer5">è sempre in equilibrio</string>
+    <string name="question_15_explanation">RobertClyde.</string>
+    <string name="question_15_translated">false</string>
+
+    <string name="question_16_question">Il watt (W), è l\'unità che misura:</string>
+    <string name="question_16_answer1">lavoro</string>
+    <string name="question_16_answer2">energia</string>
+    <string name="question_16_answer3">potenza</string>
+    <string name="question_16_answer4">calore</string>
+    <string name="question_16_answer5">temperatura</string>
+    <string name="question_16_explanation">Richard Burton played Anthony</string>
+    <string name="question_16_translated">false</string>
+
+    <string name="question_17_question">La massa di un corpo:</string>
+    <string name="question_17_answer1">varia con l\'accelerazione cui è soggetto</string>
+    <string name="question_17_answer2">varia con la sua posizione sul globo terrestre</string>
+    <string name="question_17_answer3">varia se il corpo si sposta dalla terra alla luna</string>
+    <string name="question_17_answer4">non varia mai</string>
+    <string name="question_17_answer5">varia solo se varia la densità del corpo</string>
+    <string name="question_17_explanation">It was established in 1945 by the United Nations.</string>
+    <string name="question_17_translated">false</string>
+
+    <string name="question_18_question">Quale delle seguenti affermazioni è VERA?</string>
+    <string name="question_18_answer1">I raggi gamma non sono radiazioni elettromagnetiche</string>
+    <string name="question_18_answer2">La luce non si propaga nel vuoto</string>
+    <string name="question_18_answer3">Il suono si propaga nel vuoto</string>
+    <string name="question_18_answer4">Il suono ha carattere ondulatorio</string>
+    <string name="question_18_answer5">La velocità della luce è indipendente dal mezzo attraversato</string>
+    <string name="question_18_explanation"></string>
+    <string name="question_18_translated">false</string>
+
+    <string name="question_19_question">Sapendo che l\'accelerazione di gravità vale 9,8 m/s2, qual è il peso di un corpo di massa 10 kg?</string>
+    <string name="question_19_answer1">9,8 N</string>
+    <string name="question_19_answer2">98 N</string>
+    <string name="question_19_answer3">980 N</string>
+    <string name="question_19_answer4">0,98 N</string>
+    <string name="question_19_answer5">0,098 N</string>
+    <string name="question_19_explanation">Ushuaia city.</string>
+    <string name="question_19_translated">false</string>
+
+
+    <string name="question_20_question">Quali delle seguenti grandezze si può misurare in kg/m3?</string>
+    <string name="question_20_answer1">L\'energia cinetica</string>
+    <string name="question_20_answer2">Il volume specifico</string>
+    <string name="question_20_answer3">La densità</string>
+    <string name="question_20_answer4">L\'accelerazione</string>
+    <string name="question_20_answer5">La pressione</string>
+    <string name="question_20_explanation">GreenlandCity.</string>
+    <string name="question_20_translated">false</string>
+
+    <string name="question_21_question">Quali delle seguenti grandezze fisiche (forza, potenza, energia, calore) sono omogenee?</string>
+    <string name="question_21_answer1">Energia-calore</string>
+    <string name="question_21_answer2">Forza-potenza</string>
+    <string name="question_21_answer3">Energia-potenza</string>
+    <string name="question_21_answer4">Tutte</string>
+    <string name="question_21_answer5">Nessuna</string>
+    <string name="question_21_explanation"></string>
+    <string name="question_21_translated">false</string>
+
+    <string name="question_22_question">Quale delle seguenti unità esprime una forza?</string>
+    <string name="question_22_answer1">Erg . cm</string>
+    <string name="question_22_answer2">Watt</string>
+    <string name="question_22_answer3">Joule/m</string>
+    <string name="question_22_answer4">Newton . m</string>
+    <string name="question_22_answer5">Baria</string>
+    <string name="question_22_explanation"></string>
+    <string name="question_22_translated">false</string>
+
+    <string name="question_23_question">La portata di un condotto:</string>
+    <string name="question_23_answer1">è il volume di liquido che attraversa una sezione nell\'unità di tempo</string>
+    <string name="question_23_answer2">è la massa di liquido che esce dal condotto</string>
+    <string name="question_23_answer3">si misura in litri . minuti</string>
+    <string name="question_23_answer4">dipende dalla quota del condotto</string>
+    <string name="question_23_answer5">si misura in litri . metri</string>
+    <string name="question_23_explanation"></string>
+    <string name="question_23_translated">false</string>
+
+    <string name="question_24_question">In un moto circolare uniforme il periodo T è il tempo impiegato per percorrere l\'intera circonferenza. Il
+numero di giri compiuti nell\'unità di tempo è:</string>
+    <string name="question_24_answer1">2[pigreco]/T</string>
+    <string name="question_24_answer2">1/T</string>
+    <string name="question_24_answer3">T/2[pigreco]</string>
+    <string name="question_24_answer4">2[pigreco]T</string>
+    <string name="question_24_answer5">1/(2[pigreco]T)</string>
+    <string name="question_24_explanation"></string>
+    <string name="question_24_translated">false</string>
+
+    <string name="question_25_question">Per tensione superficiale si intende:</string>
+    <string name="question_25_answer1">lo sforzo cui si trova sottoposta la superficie di un corpo</string>
+    <string name="question_25_answer2">la forza tangente alla superficie libera di un liquido che agisce su un tratto di perimetro di lunghezza unitaria</string>
+    <string name="question_25_answer3">la curvatura che assume in un capillare il menisco di liquido ascendente o discendente</string>
+    <string name="question_25_answer4">la forza che agisce sull\'unità di superficie di un corpo fluido</string>
+    <string name="question_25_answer5">l\'altezza di salita per capillarità</string>
+    <string name="question_25_explanation"></string>
+    <string name="question_25_translated">false</string>
+
+    <string name="question_26_question">È possibile che un corpo che si muove di moto uniforme sia dotato di accelerazione?</string>
+    <string name="question_26_answer1">No, mai</string>
+    <string name="question_26_answer2">Sì, se il moto è rettilineo</string>
+    <string name="question_26_answer3">Sì, se la traiettoria è curva</string>
+    <string name="question_26_answer4">Sì, se il corpo è sottoposto alla forza peso</string>
+    <string name="question_26_answer5">No, se la velocità è molto piccola</string>
+    <string name="question_26_explanation"></string>
+    <string name="question_26_translated">false</string>
+
+    <string name="question_27_question">Nel Sistema Internazionale, il farad rappresenta l\'unità di misura di:</string>
+    <string name="question_27_answer1">forza</string>
+    <string name="question_27_answer2">energia</string>
+    <string name="question_27_answer3">intensità di corrente</string>
+    <string name="question_27_answer4">induttanza</string>
+    <string name="question_27_answer5">capacità elettrica</string>
+    <string name="question_27_explanation"></string>
+    <string name="question_27_translated">false</string>
+
+    <string name="question_28_question">La densità dell\'acqua, espressa nel Sistema Internazionale (= MKSA), è circa uguale a:</string>
+    <string name="question_28_answer1">1</string>
+    <string name="question_28_answer2">10</string>
+    <string name="question_28_answer3">100</string>
+    <string name="question_28_answer4">1000</string>
+    <string name="question_28_answer5">10.000</string>
+    <string name="question_28_explanation"></string>
+    <string name="question_28_translated">false</string>
+
+    <string name="question_29_question">Due corpi aventi lo stesso volume e la stessa densità hanno:</string>
+    <string name="question_29_answer1">la stessa superficie</string>
+    <string name="question_29_answer2">la stessa capacità termica</string>
+    <string name="question_29_answer3">la stessa carica elettrica</string>
+    <string name="question_29_answer4">la stessa massa</string>
+    <string name="question_29_answer5">lo stesso numero di atomi</string>
+    <string name="question_29_explanation"></string>
+    <string name="question_29_translated">false</string>
+
+    <string name="question_30_question">Come si scrive l\'energia cinetica di un corpo di massa m che si muove con velocità v?</string>
+    <string name="question_30_answer1">mv</string>
+    <string name="question_30_answer2">mv2/2</string>
+    <string name="question_30_answer3">2m/v2</string>
+    <string name="question_30_answer4">m2v</string>
+    <string name="question_30_answer5">(1/2)v2/m</string>
+    <string name="question_30_explanation"></string>
+    <string name="question_30_translated">false</string>
+
+    <string name="question_31_question">Quando cessa istantaneamente l\'azione di qualunque forza su un corpo:</string>
+    <string name="question_31_answer1">il corpo si arresta</string>
+    <string name="question_31_answer2">il corpo prosegue con moto rettilineo uniforme</string>
+    <string name="question_31_answer3">il corpo decelera fino a ritornare alla velocità iniziale</string>
+    <string name="question_31_answer4">il corpo ricade compiendo una traiettoria parabolica</string>
+    <string name="question_31_answer5">il corpo esegue un moto armonico</string>
+    <string name="question_31_explanation"></string>
+    <string name="question_31_translated">false</string>
+
+    <string name="question_32_question">Posto che un corpo presenti un peso specifico relativo pari a 2, la sua densità relativa è:</string>
+    <string name="question_32_answer1">19,6</string>
+    <string name="question_32_answer2">2</string>
+    <string name="question_32_answer3">9,8</string>
+    <string name="question_32_answer4">bisogna conoscere il volume del corpo</string>
+    <string name="question_32_answer5">bisogna conoscere la massa del corpo</string>
+    <string name="question_32_explanation"></string>
+    <string name="question_32_translated">false</string>
+
+    <string name="question_33_question">Quale delle seguenti grandezze si può misurare in kg/m3?</string>
+    <string name="question_33_answer1">La densità</string>
+    <string name="question_33_answer2">Il peso specifico</string>
+    <string name="question_33_answer3">L\'energia cinetica</string>
+    <string name="question_33_answer4">L\'accelerazione</string>
+    <string name="question_33_answer5">Il peso</string>
+    <string name="question_33_explanation"></string>
+    <string name="question_33_translated">false</string>
+
+    <string name="question_34_question">Due coppie di forze si dicono opposte quando i loro momenti hanno:</string>
+    <string name="question_34_answer1">modulo uguale, direzioni coincidenti, versi contrari</string>
+    <string name="question_34_answer2">modulo uguale</string>
+    <string name="question_34_answer3">versi contrari</string>
+    <string name="question_34_answer4">direzioni coincidenti e versi contrari</string>
+    <string name="question_34_answer5">modulo, direzione e verso uguali</string>
+    <string name="question_34_explanation"></string>
+    <string name="question_34_translated">false</string>
+
+    <string name="question_35_question">Quale delle seguenti unità di misura NON si riferisce all\'energia?</string>
+    <string name="question_35_answer1">Joule</string>
+    <string name="question_35_answer2">Erg</string>
+    <string name="question_35_answer3">Caloria</string>
+    <string name="question_35_answer4">Newton</string>
+    <string name="question_35_answer5">Chilowattora</string>
+    <string name="question_35_explanation"></string>
+    <string name="question_35_translated">false</string>
+
+    <string name="question_36_question">Il comune termometro a mercurio usato per misurare la temperatura corporea si basa sul principio della:</string>
+    <string name="question_36_answer1">dilatazione termica</string>
+    <string name="question_36_answer2">capillarità</string>
+    <string name="question_36_answer3">relazione temperatura-pressione</string>
+    <string name="question_36_answer4">conservazione dell\'energia</string>
+    <string name="question_36_answer5">legge di Bernoulli</string>
+    <string name="question_36_explanation"></string>
+    <string name="question_36_translated">false</string>
+
+    <string name="question_37_question">Che cos\'è la lunghezza d\'onda?</string>
+    <string name="question_37_answer1">La distanza minima tra due punti sempre in fase tra di loro</string>
+    <string name="question_37_answer2">La distanza percorsa da un\'onda in un secondo</string>
+    <string name="question_37_answer3">Il numero di onde per unità di lunghezza</string>
+    <string name="question_37_answer4">Il tempo impiegato da un\'onda a ritornare alla condizioni iniziali</string>
+    <string name="question_37_answer5">L\'ampiezza di un\'onda</string>
+    <string name="question_37_explanation"></string>
+    <string name="question_37_translated">false</string>
+
+    <string name="question_38_question">Quale tra le seguenti è un\'unità di misura dell\'energia?</string>
+    <string name="question_38_answer1">Elettron-volt</string>
+    <string name="question_38_answer2">Newton</string>
+    <string name="question_38_answer3">Baria</string>
+    <string name="question_38_answer4">Ampere</string>
+    <string name="question_38_answer5">Watt</string>
+    <string name="question_38_explanation"></string>
+    <string name="question_38_translated">false</string>
+
+    <string name="question_39_question">In una mole di idrogeno atomico ci sono circa:</string>
+    <string name="question_39_answer1">6 . 1023 elettroni e 6 . 10-23 protoni</string>
+    <string name="question_39_answer2">6 . 10-23 elettroni e 6 . 1023 protoni</string>
+    <string name="question_39_answer3">6 . 1023 elettroni e 6 . 1023 protoni</string>
+    <string name="question_39_answer4">6 . 10-23 elettroni e 6 . 10-23 protoni</string>
+    <string name="question_39_answer5">0,6 . 1023 elettroni e 0,6 . 1023 protoni</string>
+    <string name="question_39_explanation"></string>
+    <string name="question_39_translated">false</string>
+
+    <string name="question_40_question">Dire quale delle seguenti unità di misura NON può essere usata per indicare il peso di un corpo:</string>
+    <string name="question_40_answer1">dine</string>
+    <string name="question_40_answer2">joule</string>
+    <string name="question_40_answer3">newton</string>
+    <string name="question_40_answer4">grammo-peso</string>
+    <string name="question_40_answer5">kg-peso</string>
+    <string name="question_40_explanation"></string>
+    <string name="question_40_translated">false</string>
+
+    <string name="question_41_question">Nel Sistema Internazionale, un corpo di massa 5 kg ha peso</string>
+    <string name="question_41_answer1">1,9 N</string>
+    <string name="question_41_answer2">4,9 N</string>
+    <string name="question_41_answer3">9,8 N</string>
+    <string name="question_41_answer4">49 N</string>
+    <string name="question_41_answer5">98 N</string>
+    <string name="question_41_explanation"></string>
+    <string name="question_41_translated">false</string>
+
+    <string name="question_42_question">Quanti millimetri cubici sono contenuti in un millilitro?</string>
+    <string name="question_42_answer1">1</string>
+    <string name="question_42_answer2">10</string>
+    <string name="question_42_answer3">100</string>
+    <string name="question_42_answer4">1000</string>
+    <string name="question_42_answer5">10.000</string>
+    <string name="question_42_explanation"></string>
+    <string name="question_42_translated">false</string>
+
+    <string name="question_43_question">Che cosa significa che un moto è uniformemente accelerato?</string>
+    <string name="question_43_answer1">Che l\'accelerazione è una funzione lineare del tempo</string>
+    <string name="question_43_answer2">Che l\'accelerazione è nulla</string>
+    <string name="question_43_answer3">Che la velocità è una funzione lineare del tempo</string>
+    <string name="question_43_answer4">Che il corpo che si muove ha densità uniforme</string>
+    <string name="question_43_answer5">Che il corpo si muove di moto uniforme</string>
+    <string name="question_43_explanation"></string>
+    <string name="question_43_translated">false</string>
+
+    <string name="question_44_question">10 kW equivalgono ad una potenza pari a:</string>
+    <string name="question_44_answer1">10 J/s</string>
+    <string name="question_44_answer2">10.000 J/s</string>
+    <string name="question_44_answer3">10.000 J . s</string>
+    <string name="question_44_answer4">10.000 J/min</string>
+    <string name="question_44_answer5">10 cavalli vapore</string>
+    <string name="question_44_explanation"></string>
+    <string name="question_44_translated">false</string>
+
+    <string name="question_45_question">Ricordando il famoso Principio di Archimede, quale delle seguenti affermazioni è CORRETTA?</string>
+    <string name="question_45_answer1">Il Principio vale solo per i liquidi e non per i gas</string>
+    <string name="question_45_answer2">Il Principio prevede una "spinta" solo in presenza della forza di gravità</string>
+    <string name="question_45_answer3">Il Principio non vale per i liquidi viscosi</string>
+    <string name="question_45_answer4">Il Principio vale solo se il corpo immerso ha densità uniforme</string>
+    <string name="question_45_answer5">Il Principio vale solo per liquidi in movimento</string>
+    <string name="question_45_explanation"></string>
+    <string name="question_45_translated">false</string>
+
+    <string name="question_46_question">Quanti metri cubi (m3) sono contenuti in un millilitro?</string>
+    <string name="question_46_answer1">10-6</string>
+    <string name="question_46_answer2">10-3</string>
+    <string name="question_46_answer3">100</string>
+    <string name="question_46_answer4">103</string>
+    <string name="question_46_answer5">109</string>
+    <string name="question_46_explanation"></string>
+    <string name="question_46_translated">false</string>
+
+    <string name="question_47_question">Una forza costante è applicata a corpi di massa diversa. L\'accelerazione impressa ad ognuno di essi è:</string>
+    <string name="question_47_answer1">proporzionale alla massa</string>
+    <string name="question_47_answer2">inversamente proporzionale alla massa</string>
+    <string name="question_47_answer3">proporzionale al quadrato della massa</string>
+    <string name="question_47_answer4">non dipende dalla massa</string>
+    <string name="question_47_answer5">non dipende mai dalla forza applicata</string>
+    <string name="question_47_explanation"></string>
+    <string name="question_47_translated">false</string>
+
+    <string name="question_48_question">Una laminetta di quarzo vibra compiendo 107 oscillazioni al secondo. Il periodo di oscillazione è:</string>
+    <string name="question_48_answer1">10-7 s</string>
+    <string name="question_48_answer2">107 s</string>
+    <string name="question_48_answer3">10-7 Hz</string>
+    <string name="question_48_answer4">107 Hz</string>
+    <string name="question_48_answer5">10-7 cicli/s</string>
+    <string name="question_48_explanation"></string>
+    <string name="question_48_translated">false</string>
+
+    <string name="question_49_question">Un corpo rigido sospeso per un punto fisso qualsiasi:</string>
+    <string name="question_49_answer1">può ruotare</string>
+    <string name="question_49_answer2">può traslare</string>
+    <string name="question_49_answer3">può rototraslare</string>
+    <string name="question_49_answer4">non può muoversi</string>
+    <string name="question_49_answer5">rimane sempre immobile</string>
+    <string name="question_49_explanation"></string>
+    <string name="question_49_translated">false</string>
+
+    <string name="question_50_question">Fra le seguenti, tre sono grandezze fisiche fondamentali nel Sistema Internazionale:</string>
+    <string name="question_50_answer1">massa, energia, potenziale</string>
+    <string name="question_50_answer2">tempo, temperatura, potenziale</string>
+    <string name="question_50_answer3">lunghezza, forza, intensità luminosa</string>
+    <string name="question_50_answer4">lunghezza, tempo, energia</string>
+    <string name="question_50_answer5">lunghezza, tempo, corrente elettrica</string>
+    <string name="question_50_explanation"></string>
+    <string name="question_50_translated">false</string>
+
+    <string name="question_51_question">Un recipiente contenente acqua calda cede calore all\'ambiente. Il calore ceduto dipende:</string>
+    <string name="question_51_answer1">soltanto dalla massa di acqua</string>
+    <string name="question_51_answer2">soltanto dalla differenza di temperatura fra acqua ed ambiente</string>
+    <string name="question_51_answer3">tanto dalla massa d\'acqua quanto dalla differenza di temperatura fra acqua ed ambiente</string>
+    <string name="question_51_answer4">da nessuna delle grandezze sopra considerate</string>
+    <string name="question_51_answer5">soltanto dal tempo in cui avviene il fenomeno</string>
+    <string name="question_51_explanation"></string>
+    <string name="question_51_translated">false</string>
+
+    <string name="question_52_question">La densità di un corpo si misura nel S.I. in:</string>
+    <string name="question_52_answer1">kg/m3</string>
+    <string name="question_52_answer2">N/m3</string>
+    <string name="question_52_answer3">è un numero puro</string>
+    <string name="question_52_answer4">dine/cm3</string>
+    <string name="question_52_answer5">mmHg</string>
+    <string name="question_52_explanation"></string>
+    <string name="question_52_translated">false</string>
+
+    <string name="question_53_question">Quale tra le seguenti grandezze NON è vettoriale?</string>
+    <string name="question_53_answer1">L\'energia cinetica</string>
+    <string name="question_53_answer2">La forza</string>
+    <string name="question_53_answer3">La quantità di moto</string>
+    <string name="question_53_answer4">L\'intensità del campo elettrico</string>
+    <string name="question_53_answer5">L\'accelerazione centripeta</string>
+    <string name="question_53_explanation"></string>
+    <string name="question_53_translated">false</string>
+
+    <string name="question_54_question">Nel Sistema Internazionale il joule rappresenta l\'unità di misura di:</string>
+    <string name="question_54_answer1">forza</string>
+    <string name="question_54_answer2">energia</string>
+    <string name="question_54_answer3">corrente elettrica</string>
+    <string name="question_54_answer4">temperatura</string>
+    <string name="question_54_answer5">intensità luminosa</string>
+    <string name="question_54_explanation"></string>
+    <string name="question_54_translated">false</string>
+
+    <string name="question_55_question">La quantità di moto si misura in:</string>
+    <string name="question_55_answer1">metri . secondi</string>
+    <string name="question_55_answer2">newton . metri</string>
+    <string name="question_55_answer3">newton . secondi</string>
+    <string name="question_55_answer4">chilogrammi . metri . secondi</string>
+    <string name="question_55_answer5">joule . secondi</string>
+    <string name="question_55_explanation"></string>
+    <string name="question_55_translated">false</string>
+
+    <string name="question_56_question">Indicare quale delle seguenti relazioni tra le grandezze fisiche è CORRETTA:</string>
+    <string name="question_56_answer1">(lavoro)/(spostamento) = (forza)</string>
+    <string name="question_56_answer2">(massa) . (velocità) = (forza)</string>
+    <string name="question_56_answer3">(massa) . (spostamento) = (forza)</string>
+    <string name="question_56_answer4">(potenza) . (velocità) = (forza)</string>
+    <string name="question_56_answer5">(massa) . (velocità) = forza</string>
+    <string name="question_56_explanation"></string>
+    <string name="question_56_translated">false</string>
+
+    <string name="question_57_question">ll chilowattora è un\'unità di misura di:</string>
+    <string name="question_57_answer1">potenza</string>
+    <string name="question_57_answer2">frequenza</string>
+    <string name="question_57_answer3">intensità di corrente</string>
+    <string name="question_57_answer4">energia</string>
+    <string name="question_57_answer5">carica elettrica</string>
+    <string name="question_57_explanation"></string>
+    <string name="question_57_translated">false</string>
+
+    <string name="question_58_question">Nel Sistema Internazionale SI, l\'unità di misura della forza è:</string>
+    <string name="question_58_answer1">la dina</string>
+    <string name="question_58_answer2">il newton</string>
+    <string name="question_58_answer3">il watt</string>
+    <string name="question_58_answer4">il joule</string>
+    <string name="question_58_answer5">l\'erg</string>
+    <string name="question_58_explanation"></string>
+    <string name="question_58_translated">false</string>
+
+    <string name="question_59_question">Quale fra quelle che seguono NON è una unità di misura del lavoro?</string>
+    <string name="question_59_answer1">Watt/secondo</string>
+    <string name="question_59_answer2">Joule</string>
+    <string name="question_59_answer3">newton . metro</string>
+    <string name="question_59_answer4">Erg</string>
+    <string name="question_59_answer5">Joule/secondo</string>
+    <string name="question_59_explanation"></string>
+    <string name="question_59_translated">false</string>
+
+    <string name="question_60_question">Un corpo di peso P1 e della densità D1 galleggia su un fluido di peso P2 e densità D2, quindi:</string>
+    <string name="question_60_answer1">P1 &gt; P2</string>
+    <string name="question_60_answer2">P1 &lt; P2</string>
+    <string name="question_60_answer3">D1 &gt; D2</string>
+    <string name="question_60_answer4">D1 &lt; D2</string>
+    <string name="question_60_answer5">P1 &gt; D2</string>
+    <string name="question_60_explanation"></string>
+    <string name="question_60_translated">false</string>
+
+    <string name="question_61_question">Quale delle seguenti unità è utilizzabile per indicare misure di pressione?</string>
+    <string name="question_61_answer1">Parsec</string>
+    <string name="question_61_answer2">mmHg</string>
+    <string name="question_61_answer3">Kelvin</string>
+    <string name="question_61_answer4">Poise</string>
+    <string name="question_61_answer5">kg/m</string>
+    <string name="question_61_explanation"></string>
+    <string name="question_61_translated">false</string>
+
+    <string name="question_62_question">La massa totale degli abitanti dell\'Italia è all\'incirca:</string>
+    <string name="question_62_answer1">3 milioni di tonnellate</string>
+    <string name="question_62_answer2">30 milioni di chilogrammi</string>
+    <string name="question_62_answer3">300 mila quintali</string>
+    <string name="question_62_answer4">3 miliardi di grammi</string>
+    <string name="question_62_answer5">30 milioni di tonnellate</string>
+    <string name="question_62_explanation"></string>
+    <string name="question_62_translated">false</string>
+
+    <string name="question_63_question">La densità di un liquido è:</string>
+    <string name="question_63_answer1">la resistenza del liquido allo scorrimento</string>
+    <string name="question_63_answer2">il rapporto fra la massa del liquido e il suo volume</string>
+    <string name="question_63_answer3">il rapporto tra il volume del liquido e la sua massa</string>
+    <string name="question_63_answer4">uguale in tutti i sistemi di unità di misura</string>
+    <string name="question_63_answer5">il prodotto massa per volume</string>
+    <string name="question_63_explanation"></string>
+    <string name="question_63_translated">false</string>
+
+    <string name="question_64_question">Un liquido viscoso scorre in un tubo con moto stazionario. Se il raggio del tubo viene aumentato di un fattore
+2 e la caduta di pressione ai suoi estremi rimane la stessa, la portata viene moltiplicata per un fattore:</string>
+    <string name="question_64_answer1">1/2</string>
+    <string name="question_64_answer2">2</string>
+    <string name="question_64_answer3">4</string>
+    <string name="question_64_answer4">16</string>
+    <string name="question_64_answer5">32</string>
+    <string name="question_64_explanation"></string>
+    <string name="question_64_translated">false</string>
+
+    <string name="question_65_question">Quale delle seguenti unità non si riferisce a una pressione?</string>
+    <string name="question_65_answer1">Torr</string>
+    <string name="question_65_answer2">Newton</string>
+    <string name="question_65_answer3">Baria</string>
+    <string name="question_65_answer4">Pascal</string>
+    <string name="question_65_answer5">mm di Hg</string>
+    <string name="question_65_explanation"></string>
+    <string name="question_65_translated">false</string>
+
+    <string name="question_66_question">Il moto armonico è un moto:</string>
+    <string name="question_66_answer1">periodico</string>
+    <string name="question_66_answer2">uniforme</string>
+    <string name="question_66_answer3">uniformemente accelerato</string>
+    <string name="question_66_answer4">uniformemente ritardato</string>
+    <string name="question_66_answer5">a velocità costante</string>
+    <string name="question_66_explanation"></string>
+    <string name="question_66_translated">false</string>
+
+    <string name="question_67_question">La pressione si può misurare in:</string>
+    <string name="question_67_answer1">m2/N</string>
+    <string name="question_67_answer2">N . m</string>
+    <string name="question_67_answer3">mmHg/m2</string>
+    <string name="question_67_answer4">N/m3</string>
+    <string name="question_67_answer5">N/m2</string>
+    <string name="question_67_explanation"></string>
+    <string name="question_67_translated">false</string>
+
+    <string name="question_68_question">Un chilowattora equivale a:</string>
+    <string name="question_68_answer1">3600 MeV</string>
+    <string name="question_68_answer2">3600 kJ</string>
+    <string name="question_68_answer3">3600 N</string>
+    <string name="question_68_answer4">360 kcal</string>
+    <string name="question_68_answer5">3600 J</string>
+    <string name="question_68_explanation"></string>
+    <string name="question_68_translated">false</string>
+
+    <string name="question_69_question">Quanto vale un micron?</string>
+    <string name="question_69_answer1">Un milionesimo di metro</string>
+    <string name="question_69_answer2">Un decimo di millimetro</string>
+    <string name="question_69_answer3">Un millesimo di centimetro</string>
+    <string name="question_69_answer4">Un miliardesimo di metro</string>
+    <string name="question_69_answer5">un decimillesimo di millimetro</string>
+    <string name="question_69_explanation"></string>
+    <string name="question_69_translated">false</string>
+
+    <string name="question_70_question">Una configurazione di equilibrio è stabile se:</string>
+    <string name="question_70_answer1">ha energia potenziale minima</string>
+    <string name="question_70_answer2">ha energia potenziale massima</string>
+    <string name="question_70_answer3">ha energia cinetica minima</string>
+    <string name="question_70_answer4">ha energia cinetica massima</string>
+    <string name="question_70_answer5">ha energia di pressione minima</string>
+    <string name="question_70_explanation"></string>
+    <string name="question_70_translated">false</string>
+
+    <string name="question_71_question">L\'accelerazione centripeta è:</string>
+    <string name="question_71_answer1">quella che possiede un corpo in moto rettilineo uniforme</string>
+    <string name="question_71_answer2">quella che subisce un astronauta in fase di lancio di un razzo</string>
+    <string name="question_71_answer3">quella che subisce un corpo animato di moto armonico</string>
+    <string name="question_71_answer4">la componente radiale dell\'accelerazione</string>
+    <string name="question_71_answer5">la forza centrifuga</string>
+    <string name="question_71_explanation"></string>
+    <string name="question_71_translated">false</string>
+
+    <string name="question_72_question">Un corpo sospeso per il suo baricento è:</string>
+    <string name="question_72_answer1">in equilibrio stabile</string>
+    <string name="question_72_answer2">in equilibrio instabile</string>
+    <string name="question_72_answer3">in equilibrio indifferente</string>
+    <string name="question_72_answer4">non è in equilibrio</string>
+    <string name="question_72_answer5">ruota continuamente attorno al baricentro</string>
+    <string name="question_72_explanation"></string>
+    <string name="question_72_translated">false</string>
+
+    <string name="question_73_question">Il peso di un corpo:</string>
+    <string name="question_73_answer1">è una grandezza che dipende sia dalle caratteristiche del corpo che dalla sua posizione</string>
+    <string name="question_73_answer2">è una caratteristica del corpo che si può stabilire una volta per tutte</string>
+    <string name="question_73_answer3">è una grandezza che caratterizza un corpo solo se è in quiete</string>
+    <string name="question_73_answer4">per la legge della gravitazione universale dipende quadraticamente dalla massa del corpo</string>
+    <string name="question_73_answer5">per la legge della gravitazione universale è inversamente proporzionale all\'accelerazione di gravità</string>
+    <string name="question_73_explanation"></string>
+    <string name="question_73_translated">false</string>
+
+    <string name="question_74_question">Un uomo ha una massa di 70 chili ed occupa un volume di 65 litri. La sua densità media vale:</string>
+    <string name="question_74_answer1">10,77 kg/m3</string>
+    <string name="question_74_answer2">1077 kg/m3</string>
+    <string name="question_74_answer3">0,108 g/cm3</string>
+    <string name="question_74_answer4">10,77 g/cm3</string>
+    <string name="question_74_answer5">107,7 g/cm3</string>
+    <string name="question_74_explanation"></string>
+    <string name="question_74_translated">false</string>
+
+    <string name="question_75_question">Quale frazione di un centimetro è un micron (= micrometro)?</string>
+    <string name="question_75_answer1">La decima parte</string>
+    <string name="question_75_answer2">La centesima parte</string>
+    <string name="question_75_answer3">La millesima parte</string>
+    <string name="question_75_answer4">La decimillesima parte</string>
+    <string name="question_75_answer5">La centimillesima parte</string>
+    <string name="question_75_explanation"></string>
+    <string name="question_75_translated">false</string>
+
+    <string name="question_76_question">Nel Sistema Internazionale l\'unità di misura della pressione è il pascal. Quanto vale 1 pascal?</string>
+    <string name="question_76_answer1">1 N/m2</string>
+    <string name="question_76_answer2">1 Atm</string>
+    <string name="question_76_answer3">10 kg/cm2</string>
+    <string name="question_76_answer4">1 N/m</string>
+    <string name="question_76_answer5">1 mmHg</string>
+    <string name="question_76_explanation"></string>
+    <string name="question_76_translated">false</string>
+
+    <string name="question_77_question">L\'erg è una unità di misura di:</string>
+    <string name="question_77_answer1">densità</string>
+    <string name="question_77_answer2">lavoro</string>
+    <string name="question_77_answer3">forza</string>
+    <string name="question_77_answer4"> massa</string>
+    <string name="question_77_answer5">pressione</string>
+    <string name="question_77_explanation"></string>
+    <string name="question_77_translated">false</string>
+
+    <string name="question_78_question">In un tubetto di 50 mL sono contenuti 25 grammi di pomata dermatologica. Qual è la densità del farmaco?</string>
+    <string name="question_78_answer1">5 g/cm3</string>
+    <string name="question_78_answer2">0,5 kg/m3</string>
+    <string name="question_78_answer3">0,5 kg/L</string>
+    <string name="question_78_answer4">0,5 g/m3</string>
+    <string name="question_78_answer5">0,5 mg/mL</string>
+    <string name="question_78_explanation"></string>
+    <string name="question_78_translated">false</string>
+
+    <string name="question_79_question">Un corpo di massa m al variare del tempo si sposta senza attrito a velocità costante v. La risultante F delle
+forze applicate sarà:</string>
+    <string name="question_79_answer1">F = mv</string>
+    <string name="question_79_answer2">F = 0</string>
+    <string name="question_79_answer3">F = m/v</string>
+    <string name="question_79_answer4">F = mg</string>
+    <string name="question_79_answer5">non si può rispondere perché non è dato l\'intervallo di tempo</string>
+    <string name="question_79_explanation"></string>
+    <string name="question_79_translated">false</string>
+
+    <string name="question_80_question">La grandezza che si misura in N/m3 (unità di forza su unità di volume) è:</string>
+    <string name="question_80_answer1">la tensione superficiale</string>
+    <string name="question_80_answer2">la pressione osmotica</string>
+    <string name="question_80_answer3">la densità</string>
+    <string name="question_80_answer4">il peso specifico</string>
+    <string name="question_80_answer5">l\'energia cinetica</string>
+    <string name="question_80_explanation"></string>
+    <string name="question_80_translated">false</string>
+
+    <string name="question_81_question">Il numero di Avogadro rappresenta il numero delle molecole contenute in:</string>
+    <string name="question_81_answer1">22,4 L di N2 in condizioni standard</string>
+    <string name="question_81_answer2">1 dm3 di acqua a 4 °C</string>
+    <string name="question_81_answer3">1 L di aria a 0 °C</string>
+    <string name="question_81_answer4">1 kg di qualsiasi sostanza a 0 °C</string>
+    <string name="question_81_answer5">1 kg di qualsiasi sostanza a 0 K</string>
+    <string name="question_81_explanation"></string>
+    <string name="question_81_translated">false</string>
+
+    <string name="question_82_question">Un kilowattora è equivalente a:</string>
+    <string name="question_82_answer1">3.600.000 watt</string>
+    <string name="question_82_answer2">1.000 calorie</string>
+    <string name="question_82_answer3">1.000 watt</string>
+    <string name="question_82_answer4">3.600.000 joule</string>
+    <string name="question_82_answer5">3.600 joule</string>
+    <string name="question_82_explanation"></string>
+    <string name="question_82_translated">false</string>
+
+    <string name="question_83_question">Di una sostanza si sa che il peso specifico relativo vale 2,7. La densità relativa:</string>
+    <string name="question_83_answer1">ha lo stesso valore</string>
+    <string name="question_83_answer2">vale 2,7 moltiplicato per l\'accelerazione di gravità</string>
+    <string name="question_83_answer3">vale 2,7 diviso l\'accelerazione di gravità</string>
+    <string name="question_83_answer4">si ottiene moltiplicando 2,7 per il volume</string>
+    <string name="question_83_answer5">si ricava moltiplicando 2,7 per la massa</string>
+    <string name="question_83_explanation"></string>
+    <string name="question_83_translated">false</string>
+
+    <string name="question_84_question">Una velocità di 180 m/s equivale a:</string>
+    <string name="question_84_answer1">50 km/h</string>
+    <string name="question_84_answer2">500 km/h</string>
+    <string name="question_84_answer3">64,8 km/h</string>
+    <string name="question_84_answer4">648 km/h</string>
+    <string name="question_84_answer5">6,48 km/h</string>
+    <string name="question_84_explanation"></string>
+    <string name="question_84_translated">false</string>
+
+    <string name="question_85_question">La pressione P esercitata da una colonna di liquido di densità d avente altezza h e sezione di area A, è data
+da:</string>
+    <string name="question_85_answer1">P = dgh</string>
+    <string name="question_85_answer2">P = dgh/A dove A è l\'area della selezione della colonna</string>
+    <string name="question_85_answer3">P = dg</string>
+    <string name="question_85_answer4">per rispondere occorre conoscere la massa della colonna di liquido</string>
+    <string name="question_85_answer5">per rispondere occorre conoscere la temperatura del liquido</string>
+    <string name="question_85_explanation"></string>
+    <string name="question_85_translated">false</string>
+
+    <string name="question_86_question">Nell\'urto tra due corpi, in assenza di interazioni con altri corpi, viene sempre conservata la seguente
+grandezza:</string>
+    <string name="question_86_answer1">la quantità di moto totale</string>
+    <string name="question_86_answer2">energia meccanica totale</string>
+    <string name="question_86_answer3">energia cinetica totale</string>
+    <string name="question_86_answer4">energia potenziale totale</string>
+    <string name="question_86_answer5">la velocità di ciascuno dei due corpi</string>
+    <string name="question_86_explanation"></string>
+    <string name="question_86_translated">false</string>
+
+    <string name="question_87_question">Un moto si dice periodico quando:</string>
+    <string name="question_87_answer1">le grandezze fisiche che vi compaiono hanno sempre gli stessi valori</string>
+    <string name="question_87_answer2">la velocità del mobile è sempre costante</string>
+    <string name="question_87_answer3">le variabili del moto assumono gli stessi valori ad intervalli di tempo uguali</string>
+    <string name="question_87_answer4">l\'accelerazione del mobile non è mai nulla</string>
+    <string name="question_87_answer5">la velocità del mobile non è mai nulla</string>
+    <string name="question_87_explanation"></string>
+    <string name="question_87_translated">false</string>
+
+    <string name="question_88_question">La quantità di lavoro spesa per portare un elettrone da un\'orbita atomica all\'infinito viene misurata in:</string>
+    <string name="question_88_answer1">joule/sec</string>
+    <string name="question_88_answer2">ohm</string>
+    <string name="question_88_answer3">watt</string>
+    <string name="question_88_answer4">elettronvolt</string>
+    <string name="question_88_answer5">newton</string>
+    <string name="question_88_explanation"></string>
+    <string name="question_88_translated">false</string>
+
+    <string name="question_89_question">Quanto vale il periodo di una vibrazione avente frequenza uguale a 10 kHz?</string>
+    <string name="question_89_answer1">10-4 s</string>
+    <string name="question_89_answer2">10-6 s</string>
+    <string name="question_89_answer3">10-3 s</string>
+    <string name="question_89_answer4">103 s</string>
+    <string name="question_89_answer5">10-5 s</string>
+    <string name="question_89_explanation"></string>
+    <string name="question_89_translated">false</string>
+
+
+    <string name="question_90_question">Durante il moto del pendolo:</string>
+    <string name="question_90_answer1">si ha conversione di energia cinetica in energia potenziale e viceversa</string>
+    <string name="question_90_answer2">si ha solo conversione di energia cinetica in energia potenziale</string>
+    <string name="question_90_answer3">si ha solo conversione di energia potenziale in energia cinetica</string>
+    <string name="question_90_answer4">non si ha nessuna conversione di energia</string>
+    <string name="question_90_answer5">il periodo diminuisce al crescere del tempo</string>
+    <string name="question_90_explanation"></string>
+    <string name="question_90_translated">false</string>
+
+    <string name="question_91_question">La traiettoria risultante dal moto circolare uniforme di un punto in un piano che si muove di moto rettilineo
+uniforme lungo la propria perpendicolare è:</string>
+    <string name="question_91_answer1">un ellisse</string>
+    <string name="question_91_answer2">una parabola</string>
+    <string name="question_91_answer3">un\'iperbole</string>
+    <string name="question_91_answer4">un elicoide</string>
+    <string name="question_91_answer5">una circonferenza</string>
+    <string name="question_91_explanation"></string>
+    <string name="question_91_translated">false</string>
+
+    <string name="question_92_question">Nel moto di un corpo, accelerazione e velocità sono vettori che hanno:</string>
+    <string name="question_92_answer1">sempre la stessa direzione e lo stesso verso</string>
+    <string name="question_92_answer2">sempre la stessa direzione</string>
+    <string name="question_92_answer3">sempre lo stesso verso</string>
+    <string name="question_92_answer4">nessuna delle risposte precedenti è esatta</string>
+    <string name="question_92_answer5">l\'accelerazione è sempre perpendicolare alla velocità</string>
+    <string name="question_92_explanation"></string>
+    <string name="question_92_translated">false</string>
+
+    <string name="question_93_question">Qual è il valore dell\'angolo che la direzione di una forza applicata ad un corpo deve formare con lo
+spostamento affinché la sua azione sia frenante?</string>
+    <string name="question_93_answer1">0</string>
+    <string name="question_93_answer2">90</string>
+    <string name="question_93_answer3">&gt; 90</string>
+    <string name="question_93_answer4">&lt; 90</string>
+    <string name="question_93_answer5">45</string>
+    <string name="question_93_explanation"></string>
+    <string name="question_93_translated">false</string>
+
+    <string name="question_94_question">What?</string>
+    <string name="question_94_answer1">Ecu</string>
+    <string name="question_94_answer2">Franc</string>
+    <string name="question_94_answer3">Dollar</string>
+    <string name="question_94_answer4">Ecu</string>
+    <string name="question_94_answer5">Franc</string>
+    <string name="question_94_explanation"></string>
+    <string name="question_94_translated">false</string>
+
+    <string name="question_95_question">Due corpi solidi omogenei di uguale densità ma volume diverso sono immersi nell\'acqua:</string>
+    <string name="question_95_answer1">il corpo con volume maggiore riceve una maggior spinta di Archimede</string>
+    <string name="question_95_answer2">ricevono entrambi la stessa spinta di Archimede</string>
+    <string name="question_95_answer3">la spinta di Archimede che ricevono dipende dalla forma dei due oggetti</string>
+    <string name="question_95_answer4">il corpo che pesa di più riceve una spinta di Archimede minore</string>
+    <string name="question_95_answer5">dipende dall\'attrito dell\'acqua con la superficie del corpo</string>
+    <string name="question_95_explanation"></string>
+    <string name="question_95_translated">false</string>
+
+    <string name="question_96_question">Un\'accelerazione dal punto di vista dimensionale, è:</string>
+    <string name="question_96_answer1">(lunghezza)-2/tempo</string>
+    <string name="question_96_answer2">lunghezza/tempo</string>
+    <string name="question_96_answer3">(lunghezza)2/tempo</string>
+    <string name="question_96_answer4">lunghezza/(tempo)2</string>
+    <string name="question_96_answer5">(lunghezza)2/(tempo)2</string>
+    <string name="question_96_explanation"></string>
+    <string name="question_96_translated">false</string>
+
+    <string name="question_97_question">La superficie libera di un liquido in equilibrio:</string>
+    <string name="question_97_answer1">tende ad incurvarsi per effetto della gravità</string>
+    <string name="question_97_answer2">tende ad innalzarsi per effetto della tensione superficiale</string>
+    <string name="question_97_answer3">si dispone ortogonalmente alla risultante delle forze in ogni suo punto</string>
+    <string name="question_97_answer4">si dispone parallelamente al fondo del recipiente che lo contiene</string>
+    <string name="question_97_answer5">tende ad abbassarsi per le forze di gravità</string>
+    <string name="question_97_explanation"></string>
+    <string name="question_97_translated">false</string>
+
+    <string name="question_98_question">Un punto si muove alla velocità v = 36 km/h. A quale valore in m/s tale velocità corrisponde?</string>
+    <string name="question_98_answer1">0,36 m/s</string>
+    <string name="question_98_answer2">36.000 m/s</string>
+    <string name="question_98_answer3">36 m/s</string>
+    <string name="question_98_answer4">10 m/s</string>
+    <string name="question_98_answer5">98 m/s</string>
+    <string name="question_98_explanation"></string>
+    <string name="question_98_translated">false</string>
+
+    <string name="question_99_question">Un corpo di massa M si muove su di un piano orizzontale con velocità V. Ad un certo punto A della sua
+traiettoria incomincia a sentire l\'effetto di una forza d\'attrito che supponiamo di modulo costante nel tempo e
+per tutto il resto della traiettoria del corpo, il quale si ferma dopo un tempo [Delta]T. Quanto vale il modulo
+della forza d\'attrito?</string>
+    <string name="question_99_answer1">F = MV2 [Delta]T/2</string>
+    <string name="question_99_answer2">F = V/[Delta]T</string>
+    <string name="question_99_answer3">F = MV/[Delta]T</string>
+    <string name="question_99_answer4">2 [Delta]T/MV</string>
+    <string name="question_99_answer5">F = MV [Delta]T</string>
+    <string name="question_99_explanation"></string>
+    <string name="question_99_translated">false</string>
+
+    <string name="question_100_question">Il teorema di Torricelli asserisce che:</string>
+    <string name="question_100_answer1">la pressione atmosferica a livello del mare ammonta a 760 Torr</string>
+    <string name="question_100_answer2">la velocità di deflusso di un liquido attraverso un foro in un recipiente dipende dal dislivello tra il foro ed il pelo
+libero del liquido</string>
+    <string name="question_100_answer3">la velocità di deflusso di un liquido reale varia inversamente alla sezione del condotto</string>
+    <string name="question_100_answer4">ogni corpo immerso in un liquido riceve una spinta dal basso verso l\'alto pari al peso della massa di liquido spostata</string>
+    <string name="question_100_answer5">la velocità del liquido dipende dalla quarta potenza del raggio del condotto</string>
+    <string name="question_100_explanation"></string>
+    <string name="question_100_translated">false</string>
+
+    <string name="question_101_question">Inwhich?</string>
+    <string name="question_101_answer1">Rossini</string>
+    <string name="question_101_answer2">Bizet</string>
+    <string name="question_101_answer3">Verdi</string>			????????????????????
+    <string name="question_101_answer4">Bizet</string>
+    <string name="question_101_answer5">Verdi</string>
+    <string name="question_101_explanation"></string>
+    <string name="question_101_translated">false</string>
+
+    <string name="question_102_question">Una pietra è lanciata verso l\'alto; nel punto più alto raggiunto dalla pietra:</string>
+    <string name="question_102_answer1">la velocità è massima</string>
+    <string name="question_102_answer2">la velocità è minima</string>
+    <string name="question_102_answer3">l\'accelerazione è massima</string>
+    <string name="question_102_answer4">l\'accelerazione è nulla</string>
+    <string name="question_102_answer5">l\'accelerazione di gravità è nulla</string>
+    <string name="question_102_explanation"></string>
+    <string name="question_102_translated">false</string>
+
+    <string name="question_103_question">L\'energia cinetica di un corpo in caduta libera in assenza di attrito:</string>
+    <string name="question_103_answer1">aumenta al ridursi della quota</string>
+    <string name="question_103_answer2">è costante</string>
+    <string name="question_103_answer3">diminuisce al ridursi della quota</string>
+    <string name="question_103_answer4">dipende dalle caratteristiche del corpo</string>
+    <string name="question_103_answer5">dipende dalle dimensioni del corpo</string>
+    <string name="question_103_explanation"></string>
+    <string name="question_103_translated">false</string>
+
+    <string name="question_104_question">Il rapporto tra i periodi di rivoluzione di due satelliti che percorrono orbite circolari con raggi
+rispettivamente di R e R/4 è:</string>
+    <string name="question_104_answer1">2</string>
+    <string name="question_104_answer2">4</string>
+    <string name="question_104_answer3">8</string>
+    <string name="question_104_answer4">16</string>
+    <string name="question_104_answer5">32</string>
+    <string name="question_104_explanation"></string>
+    <string name="question_104_translated">false</string>
+
+    <string name="question_105_question">Due persone di identica massa superano un dislivello di 3 m, A, salendo su di una pertica verticale, l\'altro, B,
+impiegando una scala inclinata. Chi ha compiuto il lavoro maggiore contro le forze del campo gravitazionale?</string>
+    <string name="question_105_answer1">A</string>
+    <string name="question_105_answer2">B</string>
+    <string name="question_105_answer3">Il lavoro compiuto è uguale</string>
+    <string name="question_105_answer4">Occorre conoscere il tempo di salita</string>
+    <string name="question_105_answer5">Occorre conoscere l\'inclinazione della scala</string>
+    <string name="question_105_explanation"></string>
+    <string name="question_105_translated">false</string>
+
+    <string name="question_106_question">L\'energia cinetica si conserva:</string>
+    <string name="question_106_answer1">in ogni urto elastico</string>
+    <string name="question_106_answer2">in ogni processo d\'urto centrale</string>
+    <string name="question_106_answer3">in ogni urto totalmente anelastico</string>
+    <string name="question_106_answer4">se i corpi si muovono di moto accelerato sopra una retta</string>
+    <string name="question_106_answer5">se una parte dell\'energia si trasforma in calore</string>
+    <string name="question_106_explanation"></string>
+    <string name="question_106_translated">false</string>
+
+    <string name="question_107_question">In merito alle spinte di Archimede esercitate su un pezzo di sughero e su un pezzo di ferro di uguale volume,
+completamente immersi in acqua, si può dire che:</string>
+    <string name="question_107_answer1">sono tra loro uguali</string>
+    <string name="question_107_answer2">è maggiore quella sul sughero</string>
+    <string name="question_107_answer3">è maggiore quella sul ferro</string>
+    <string name="question_107_answer4">è assente per il ferro perché va a fondo</string>
+    <string name="question_107_answer5">sono di verso opposto per il sughero e per il ferro</string>
+    <string name="question_107_explanation"></string>
+    <string name="question_107_translated">false</string>
+
+    <string name="question_108_question">Un corpo pesante di massa m si muove (senza attriti) nel campo di forze conservativo della gravità (g = cost)
+con energia cinetica T, energia potenziale U ed energia totale E. Indicare l\'equazione ERRATA:</string>
+    <string name="question_108_answer1">U = m . g . h</string>
+    <string name="question_108_answer2">T = 1/2 m . v2</string>
+    <string name="question_108_answer3">T = E - U</string>
+    <string name="question_108_answer4">E = T - U</string>
+    <string name="question_108_answer5">mg = m . [Delta] v/[Delta] t</string>
+    <string name="question_108_explanation"></string>
+    <string name="question_108_translated">false</string>
+
+    <string name="question_109_question">Quali delle seguenti è una unità di misura del lavoro?</string>
+    <string name="question_109_answer1">N m-2</string>
+    <string name="question_109_answer2">Atm . litri</string>
+    <string name="question_109_answer3">kg . m</string>
+    <string name="question_109_answer4">Cal . cm-3</string>
+    <string name="question_109_answer5">m . s</string>
+    <string name="question_109_explanation"></string>
+    <string name="question_109_translated">false</string>
+
+    <string name="question_110_question">Nel moto di caduta naturale di un grave sulla Terra:</string>
+    <string name="question_110_answer1">l\'accelerazione cresce rapidamente</string>
+    <string name="question_110_answer2">la velocità è funzione crescente del tempo</string>
+    <string name="question_110_answer3">la velocità è funzione inversa del tempo</string>
+    <string name="question_110_answer4">si trascura sempre l\'attrito dell\'aria</string>
+    <string name="question_110_answer5">l\'energia potenziale è costante</string>
+    <string name="question_110_explanation"></string>
+    <string name="question_110_translated">false</string>
+
+    <string name="question_111_question">Un fluido ha un moto stazionario quando:</string>
+    <string name="question_111_answer1">l\'accelerazione delle molecole rimane costante nel tempo</string>
+    <string name="question_111_answer2">l\'accelerazione delle molecole rimane costante nello spazio</string>
+    <string name="question_111_answer3">la velocità in ogni punto è costante nel tempo</string>
+    <string name="question_111_answer4">la velocità delle molecole rimane costante nel tempo</string>
+    <string name="question_111_answer5">la velocità delle molecole varia linearmente con il tempo</string>
+    <string name="question_111_explanation"></string>
+    <string name="question_111_translated">false</string>
+
+    <string name="question_112_question">Se immergiamo in acqua (densità = 1 g/cm3) due sfere S1 ed S2 di che hanno rispettivamente densità di 0,8
+g/cm3 e 1,6 g/cm3:</string>
+    <string name="question_112_answer1">all\'equilibrio le due sfere galleggiano</string>
+    <string name="question_112_answer2">le due sfere affondano</string>
+    <string name="question_112_answer3">la sfera S1 galleggia, la sfera S2 affonda</string>
+    <string name="question_112_answer4">la sfera S2 galleggia, la sfera S1 affonda</string>
+    <string name="question_112_answer5">nessuna delle risposte precedenti</string>
+    <string name="question_112_explanation"></string>
+    <string name="question_112_translated">false</string>
+
+    <string name="question_113_question">In quali dei seguenti moti l\'accelerazione centripeta è nulla?</string>
+    <string name="question_113_answer1">Moto rettilineo uniformemente accelerato</string>
+    <string name="question_113_answer2">Moto circolare uniforme</string>
+    <string name="question_113_answer3">Moto circolare accelerato</string>
+    <string name="question_113_answer4">Moto parabolico</string>
+    <string name="question_113_answer5">Moto su un\'orbita elissoidale</string>
+    <string name="question_113_explanation"></string>
+    <string name="question_113_translated">false</string>
+
+    <string name="question_114_question">Che cos\'è una mole di una sostanza?</string>
+    <string name="question_114_answer1">Una quantità di sostanza superiore ad 1 kg</string>
+    <string name="question_114_answer2">Una massa in grammi uguale al peso molecolare</string>
+    <string name="question_114_answer3">Il peso in grammi di una molecola</string>
+    <string name="question_114_answer4">Il numero di molecole contenute in 1 kg</string>
+    <string name="question_114_answer5">il numero di Avogadro</string>
+    <string name="question_114_explanation"></string>
+    <string name="question_114_translated">false</string>
+
+    <string name="question_115_question">Un\'auto viaggia a 120 km/h. Quanti metri percorre in un secondo?</string>
+    <string name="question_115_answer1">12 m</string>
+    <string name="question_115_answer2">120 m</string>
+    <string name="question_115_answer3">0,12 m</string>
+    <string name="question_115_answer4">3,3 m</string>
+    <string name="question_115_answer5">33 m</string>
+    <string name="question_115_explanation"></string>
+    <string name="question_115_translated">false</string>
+
+    <string name="question_116_question">Un corpo di 4 kg di massa è soggetto ad una forza costante di 20 N. La sua accelerazione è pari a:</string>
+    <string name="question_116_answer1">80 J/s</string>
+    <string name="question_116_answer2">80 m/s</string>
+    <string name="question_116_answer3">5 m/s</string>
+    <string name="question_116_answer4">5 m/s2</string>
+    <string name="question_116_answer5">80 m/s2</string>
+    <string name="question_116_explanation"></string>
+    <string name="question_116_translated">false</string>
+
+    <string name="question_117_question">Un pendolo impiega 2 secondi per una oscillazione completa. Sapendo che il periodo è uguale a 2[pigreco]
+(l/g)1/2, dove l è la lunghezza e g l\'accelerazione di gravità, quale sarà il periodo in secondi se la lunghezza viene
+quadruplicata?</string>
+    <string name="question_117_answer1">0,5</string>
+    <string name="question_117_answer2">1</string>
+    <string name="question_117_answer3">2</string>
+    <string name="question_117_answer4">4</string>
+    <string name="question_117_answer5">8</string>
+    <string name="question_117_explanation"></string>
+    <string name="question_117_translated">false</string>
+
+    <string name="question_118_question">Un pendolo ha un periodo di oscillazione di 1 s. Se si quadruplica la lunghezza del pendolo, che valore
+assumerà il periodo?</string>
+    <string name="question_118_answer1"> 4 s</string>
+    <string name="question_118_answer2">0,25 s</string>
+    <string name="question_118_answer3">2 s</string>
+    <string name="question_118_answer4">([2V]2) s</string>
+    <string name="question_118_answer5">0,1 s</string>
+    <string name="question_118_explanation"></string>
+    <string name="question_118_translated">false</string>
+
+    <string name="question_119_question">Un cubo di lato 0,3 metri e del peso di 30 kg ha densità:</string>
+    <string name="question_119_answer1">1,1 kg/metro cubo</string>
+    <string name="question_119_answer2">11 kg/metro cubo</string>
+    <string name="question_119_answer3">110 kg/metro cubo</string>
+    <string name="question_119_answer4">1,1 kg/litro</string>
+    <string name="question_119_answer5">11 kg/litro</string>
+    <string name="question_119_explanation"></string>
+    <string name="question_119_translated">false</string>
+
+    <string name="question_120_question">Un oggetto viene portato dall\'Equatore al Polo Nord. Quale delle seguenti affermazioni è CORRETTA?</string>
+    <string name="question_120_answer1">La massa cresce ed il peso diminuisce</string>
+    <string name="question_120_answer2">La massa diminuisce ed il peso rimane costante</string>
+    <string name="question_120_answer3">Aumentano sia la massa che il peso</string>
+    <string name="question_120_answer4">Diminuiscono sia la massa che il peso</string>
+    <string name="question_120_answer5">La massa rimane costante ed il peso aumenta</string>
+    <string name="question_120_explanation"></string>
+    <string name="question_120_translated">false</string>
+
+    <string name="question_121_question">Nel moto circolare uniforme la velocità:</string>
+    <string name="question_121_answer1">è variabile in modulo e in direzione</string>
+    <string name="question_121_answer2">è costante in modulo e direzione</string>
+    <string name="question_121_answer3">è costante solo in direzione</string>
+    <string name="question_121_answer4">è costante solo in modulo</string>
+    <string name="question_121_answer5">è sempre perpendicolare alla traiettoria</string>
+    <string name="question_121_explanation"></string>
+    <string name="question_121_translated">false</string>
+
+    <string name="question_122_question">Le pulsazioni cardiache nell\'uomo hanno una frequenza dell\'ordine di:</string>
+    <string name="question_122_answer1">0,01 Hz</string>
+    <string name="question_122_answer2">1 Hz</string>
+    <string name="question_122_answer3">10 Hz</string>
+    <string name="question_122_answer4">100 Hz</string>
+    <string name="question_122_answer5">1000 Hz</string>
+    <string name="question_122_explanation"></string>
+    <string name="question_122_translated">false</string>
+
+    <string name="question_123_question">Il motivo per cui un palloncino riempito di idrogeno, lasciato a sé, vola verso l\'alto, risiede nel:</string>
+    <string name="question_123_answer1">principio di Pascal</string>
+    <string name="question_123_answer2">primo principio della dinamica</string>
+    <string name="question_123_answer3">secondo principio della termodinamica</string>
+    <string name="question_123_answer4">principio di Avogadro</string>
+    <string name="question_123_answer5">principio di Archimede</string>
+    <string name="question_123_explanation"></string>
+    <string name="question_123_translated">false</string>
+
+    <string name="question_124_question">Il peso di un corpo, a livello del mare, varia con la latitudine; le due cause principali sono:</string>
+    <string name="question_124_answer1">la Terra ruota e non è sferica</string>
+    <string name="question_124_answer2">la massa del corpo non è costante e la Terra ruota</string>
+    <string name="question_124_answer3">la massa del corpo non è costante e la Terra non è sferica</string>
+    <string name="question_124_answer4">le azioni della Luna e del Sole</string>
+    <string name="question_124_answer5">dipende solo dalla temperatura del luogo</string>
+    <string name="question_124_explanation"></string>
+    <string name="question_124_translated">false</string>
+
+    <string name="question_125_question">Il lavoro meccanico è:</string>
+    <string name="question_125_answer1">il prodotto della forza per l\'accelerazione</string>
+    <string name="question_125_answer2">il vettore ottenuto dal prodotto della forza per lo spostamento</string>
+    <string name="question_125_answer3">per forza costante e spostamento rettilineo parallelo alla forza, il prodotto della forza per lo spostamento</string>
+    <string name="question_125_answer4">l\'energia posseduta dal corpo</string>
+    <string name="question_125_answer5">la potenza diviso il tempo</string>
+    <string name="question_125_explanation"></string>
+    <string name="question_125_translated">false</string>
+
+    <string name="question_126_question">Un\'automobile percorre una curva di raggio 20 m con una velocità scalare costante di 40 km/h.
+L\'accelerazione dell\'automobile è:</string>
+    <string name="question_126_answer1">uguale a zero</string>
+    <string name="question_126_answer2">tangente alla curva</string>
+    <string name="question_126_answer3">diretta come il raggio e rivolta verso l\'interno della curva</string>
+    <string name="question_126_answer4">diretta come il raggio e rivolta verso l\'esterno della curva</string>
+    <string name="question_126_answer5">nessuna delle altre risposte</string>
+    <string name="question_126_explanation"></string>
+    <string name="question_126_translated">false</string>
+
+    <string name="question_127_question">Un liquido scorre in un tubo a sezione variabile con flusso costante.
+Se il diametro del tubo si riduce alla metà, la velocità del liquido:</string>
+    <string name="question_127_answer1">si riduce alla metà</string>
+    <string name="question_127_answer2">si riduce a meno della metà</string>
+    <string name="question_127_answer3">si riduce solo se il liquido è viscoso</string>
+    <string name="question_127_answer4">aumenta ad un valore doppio di quello iniziale</string>
+    <string name="question_127_answer5">aumenta da un valore quadruplo di quello iniziale</string>
+    <string name="question_127_explanation"></string>
+    <string name="question_127_translated">false</string>
+
+    <string name="question_128_question">Un oggetto che ha inizialmente una velocità 3 m/s, dopo 2 s, ha una velocità di 7 m/s. La sua accelerazione
+media è:</string>
+    <string name="question_128_answer1">0</string>
+    <string name="question_128_answer2">2 m/s2</string>
+    <string name="question_128_answer3">- 2 m/s2</string>
+    <string name="question_128_answer4">4 m/s2</string>
+    <string name="question_128_answer5">2 m/s</string>
+    <string name="question_128_explanation"></string>
+    <string name="question_128_translated">false</string>
+
+    <string name="question_129_question">Un moto si dice periodico quando:</string>
+    <string name="question_129_answer1">le grandezze fisiche che vi compaiono hanno sempre gli stessi valori</string>
+    <string name="question_129_answer2">la velocità del mobile è sempre costante</string>
+    <string name="question_129_answer3">le variabili del moto assumono gli stessi valori ad intervalli di tempo uguali</string>
+    <string name="question_129_answer4">l\'accelerazione del mobile non è mai nulla</string>
+    <string name="question_129_answer5">la traiettoria del moto è circolare</string>
+    <string name="question_129_explanation"></string>
+    <string name="question_129_translated">false</string>
+
+    <string name="question_130_question">I seguenti dati, relativi al mercurio a temperatura ambiente, sono tutti corretti ECCETTO UNO. Quale?</string>
+    <string name="question_130_answer1">Densità assoluta = 13,6 g/cm3</string>
+    <string name="question_130_answer2">Densità assoluta = 13,6 kg/m3</string>
+    <string name="question_130_answer3">Densità relativa = 13,6</string>
+    <string name="question_130_answer4">Peso specifico assoluto = 136 N/dm3</string>
+    <string name="question_130_answer5">Volume specifico = 1/13,6 g/cm3</string>
+    <string name="question_130_explanation"></string>
+    <string name="question_130_translated">false</string>
+
+    <string name="question_131_question">La spinta di Archimede NON dipende:</string>
+    <string name="question_131_answer1">dalla densità del mezzo</string>
+    <string name="question_131_answer2">dal peso specifico del mezzo</string>
+    <string name="question_131_answer3">dalla profondità alla quale il corpo è immerso</string>
+    <string name="question_131_answer4">dal volume del corpo</string>
+    <string name="question_131_answer5">dal valore dell\'accelerazione di gravità</string>
+    <string name="question_131_explanation"></string>
+    <string name="question_131_translated">false</string>
+
+    <string name="question_132_question">Il rendimento di una macchina NON può mai essere maggiore di 1 perché ciò violerebbe:</string>
+    <string name="question_132_answer1">il teorema di conservazione dell\'energia meccanica</string>
+    <string name="question_132_answer2">il principio di conservazione dell\'energia</string>
+    <string name="question_132_answer3">il secondo principio della dinamica</string>
+    <string name="question_132_answer4">il principio della massima entropia</string>
+    <string name="question_132_answer5">Il principio di conservazione della quantità di moto</string>
+    <string name="question_132_explanation"></string>
+    <string name="question_132_translated">false</string>
+
+    <string name="question_133_question">In un moto circolare uniforme il periodo T è il tempo impiegato per percorrere l\'intera circonferenza. Il
+numero di giri compiuti nell\'unità di tempo è:</string>
+    <string name="question_133_answer1">2[pigreco]/T</string>
+    <string name="question_133_answer2">1/T</string>
+    <string name="question_133_answer3">T/2[pigreco]</string>
+    <string name="question_133_answer4">2[pigreco]T</string>
+    <string name="question_133_answer5">1/(2[pigreco]T)</string>
+    <string name="question_133_explanation"></string>
+    <string name="question_133_translated">false</string>
+
+    <string name="question_134_question">Un satellite artificiale può ruotare A LUNGO intorno alla Terra se è posto su un\'orbita di raggio
+abbastanza grande. Ciò perché:</string>
+    <string name="question_134_answer1">per evitare l\'attrazione terrestre deve trovarsi nel vuoto assoluto</string>
+    <string name="question_134_answer2">per poter ruotare su un\'orbita chiusa deve uscire dal campo di gravitazione della Terra</string>
+    <string name="question_134_answer3">la forza centrifuga che deve far equilibrio al peso è tanto maggiore quanto maggiore è il raggio dell\'orbita (a parità di
+velocità angolare)</string>
+    <string name="question_134_answer4">più alta è la quota minore è l\'azione frenante dell\'atmosfera</string>
+    <string name="question_134_answer5">l\'accelerazione di gravità è tanto minore quanto più grande è l\'altezza</string>
+    <string name="question_134_explanation"></string>
+    <string name="question_134_translated">false</string>
+
+    <string name="question_135_question">La leva è una macchina semplice che:</string>
+    <string name="question_135_answer1">può equilibrare due forze diverse</string>
+    <string name="question_135_answer2">consente di compiere maggior lavoro</string>
+    <string name="question_135_answer3">consente di sviluppare maggior potenza</string>
+    <string name="question_135_answer4">è in equilibrio solo se i "bracci" sono uguali</string>
+    <string name="question_135_answer5">è in equilibrio solo se i "bracci" sono sulla stessa retta</string>
+    <string name="question_135_explanation"></string>
+    <string name="question_135_translated">false</string>
+
+    <string name="question_136_question">La densità dell\'acqua, espressa nel Sistema Internazionale (= MKSA), è circa uguale a:</string>
+    <string name="question_136_answer1">1</string>
+    <string name="question_136_answer2">10</string>
+    <string name="question_136_answer3">100</string>
+    <string name="question_136_answer4">1000</string>
+    <string name="question_136_answer5">10.000</string>
+    <string name="question_136_explanation"></string>
+    <string name="question_136_translated">false</string>
+
+    <string name="question_137_question">In una manovra ferroviaria un vagone viene lanciato verso un altro, con il quale si aggancia; dopo l\'urto
+ambedue i vagoni procedono uniti, con moto uniforme. Confrontando gli stati del sistema prima e dopo l\'urto,
+quale delle seguenti affermazioni è CORRETTA?</string>
+    <string name="question_137_answer1">L\'energia cinetica e la quantità di moto totali non variano</string>
+    <string name="question_137_answer2">L\'energia cinetica diminuisce e la quantità di moto non varia</string>
+    <string name="question_137_answer3">L\'energia cinetica non varia e la quantità di moto diminuisce</string>
+    <string name="question_137_answer4">Tanto l\'energia cinetica che la quantità di moto totale diminuiscono</string>
+    <string name="question_137_answer5">Non si può dire niente circa il segno delle variazioni dell\'energia cinetica e della quantità di moto se non si conosce
+la massa dei vagoni</string>
+    <string name="question_137_explanation"></string>
+    <string name="question_137_translated">false</string>
+
+    <string name="question_138_question">Una colonna d\'acqua alta 10 m esercita sul fondo una pressione il cui valore:</string>
+    <string name="question_138_answer1">è pari a 1000 mmHg</string>
+    <string name="question_138_answer2">è superiore a 2 atm</string>
+    <string name="question_138_answer3">supera di circa 1 atm la pressione esterna</string>
+    <string name="question_138_answer4">è inferiore a 700 mmHg</string>
+    <string name="question_138_answer5">dipende dall\'area della superficie d\'appoggio della colonna</string>
+    <string name="question_138_explanation"></string>
+    <string name="question_138_translated">false</string>
+
+    <string name="question_139_question">Il peso di un corpo sulla Luna è minore del peso dello stesso corpo sulla Terra perché:</string>
+    <string name="question_139_answer1">la Luna è priva di atmosfera</string>
+    <string name="question_139_answer2">il raggio della Luna è minore della massa della Terra</string>
+    <string name="question_139_answer3">la massa della Luna è minore della massa della Terra</string>
+    <string name="question_139_answer4">il rapporto tra la massa e il quadrato del raggio è minore per la Luna che per la Terra</string>
+    <string name="question_139_answer5">l\'accelerazione di gravità diminuisce con l\'aumentare della distanza della Terra</string>
+    <string name="question_139_explanation"></string>
+    <string name="question_139_translated">false</string>
+
+    <string name="question_140_question">Un corpo di massa m, posto nel vuoto ad un\'altezza h dal suolo, inizia a cadere e raggiunge il suolo con
+un\'energia cinetica pari a:</string>
+    <string name="question_140_answer1">E = mgh</string>
+    <string name="question_140_answer2">E = mh/2</string>
+    <string name="question_140_answer3">manca il dato velocità per la valutazione dell\'energia cinetica</string>
+    <string name="question_140_answer4">E = 0</string>
+    <string name="question_140_answer5">E = 1/2 mgh2</string>
+    <string name="question_140_explanation"></string>
+    <string name="question_140_translated">false</string>
+
+    <string name="question_141_question">Quale fra le seguenti è la formula dimensionale della costante di gravitazione G che appare nella formula
+F = G . MM1/R2?</string>
+    <string name="question_141_answer1">ML2 T3</string>
+    <string name="question_141_answer2">M-1 L3 T-2</string>
+    <string name="question_141_answer3">M2 L-2</string>
+    <string name="question_141_answer4">MLT-2</string>
+    <string name="question_141_answer5">M-2 L2</string>
+    <string name="question_141_explanation"></string>
+    <string name="question_141_translated">false</string>
+
+    <string name="question_142_question">Quale delle seguenti unità NON si riferisce a una pressione:</string>
+    <string name="question_142_answer1">torr</string>
+    <string name="question_142_answer2">newton</string>
+    <string name="question_142_answer3">baria</string>
+    <string name="question_142_answer4">pascal</string>
+    <string name="question_142_answer5">mm di Hg</string>
+    <string name="question_142_explanation"></string>
+    <string name="question_142_translated">false</string>
+
+    <string name="question_143_question">Se un subacqueo scende alla profondità di 40 m sotto il livello del mare, la pressione è aumentata, rispetto al
+valore presente alla superficie, di circa:</string>
+    <string name="question_143_answer1">1 atm</string>
+    <string name="question_143_answer2">2 atm</string>
+    <string name="question_143_answer3">3 atm</string>
+    <string name="question_143_answer4">4 atm</string>
+    <string name="question_143_answer5">5 atm</string>
+    <string name="question_143_explanation"></string>
+    <string name="question_143_translated">false</string>
+
+    <string name="question_144_question">Il teorema di Stevino p = po + hgd relativo alla pressione idrostatica è valido:</string>
+    <string name="question_144_answer1">per liquidi e gas nel campo gravitazionale</string>
+    <string name="question_144_answer2">per liquidi e gas solo se sottratti ad azione gravitazionale</string>
+    <string name="question_144_answer3">solo per i liquidi ideali</string>
+    <string name="question_144_answer4">solo per i liquidi reali</string>
+    <string name="question_144_answer5">solo per le sostanze aeriformi</string>
+    <string name="question_144_explanation"></string>
+    <string name="question_144_translated">false</string>
+
+    <string name="question_145_question">A parità di ogni altra condizione, la spinta di Archimede sulla Luna rispetto alla corrispondente spinta sulla
+Terra:</string>
+    <string name="question_145_answer1">è minore perché sulla Luna la costante di gravitazione universale G è minore</string>
+    <string name="question_145_answer2">è uguale in quanto i volumi degli oggetti non cambiano</string>
+    <string name="question_145_answer3"> è uguale perché la densità dei corpi non dipende dal luogo in cui si misura</string>
+    <string name="question_145_answer4">è minore perché sulla Luna tutti i pesi sono minori</string>
+    <string name="question_145_answer5">la spinta di Archimede esiste solo sulla Terra</string>
+    <string name="question_145_explanation"></string>
+    <string name="question_145_translated">false</string>
+
+    <string name="question_146_question">Indicare quali delle seguenti affermazioni circa le onde sonore è falsa:</string>
+    <string name="question_146_answer1">esibiscono il fenomeno della rifrazione</string>
+    <string name="question_146_answer2">esibiscono il fenomeno dell\'interferenza</string>
+    <string name="question_146_answer3">esibiscono il fenomeno della riflessione</string>
+    <string name="question_146_answer4">non si propagano nel vuoto</string>
+    <string name="question_146_answer5">non si propagano nei mezzi solidi</string>
+    <string name="question_146_explanation"></string>
+    <string name="question_146_translated">false</string>
+
+    <string name="question_147_question">Due onde sonore pure hanno frequenza una doppia dell\'altra. L\'onda con frequenza maggiore, rispetto
+all\'altra ha:</string>
+    <string name="question_147_answer1">velocità doppia</string>
+    <string name="question_147_answer2">lunghezza d\'onda metà</string>
+    <string name="question_147_answer3">velocità doppia e lunghezza d\'onda metà</string>
+    <string name="question_147_answer4">lunghezza d\'onda doppia</string>
+    <string name="question_147_answer5">lunghezza d\'onda quadrupla</string>
+    <string name="question_147_explanation"></string>
+    <string name="question_147_translated">false</string>
+
+    <string name="question_148_question">In quale dei seguenti mezzi il suono NON può propagarsi?</string>
+    <string name="question_148_answer1"> Acqua</string>
+    <string name="question_148_answer2">Vapore acqueo</string>
+    <string name="question_148_answer3">Ghiaccio</string>
+    <string name="question_148_answer4">Vuoto</string>
+    <string name="question_148_answer5">Acqua sovraraffreddata</string>
+    <string name="question_148_explanation"></string>
+    <string name="question_148_translated">false</string>
+
+    <string name="question_149_question">Un suono acuto, rispetto ad un suono grave, ha maggiore:</string>
+    <string name="question_149_answer1">intensità</string>
+    <string name="question_149_answer2">pressione sonora</string>
+    <string name="question_149_answer3">ampiezza</string>
+    <string name="question_149_answer4">velocità</string>
+    <string name="question_149_answer5">frequenza</string>
+    <string name="question_149_explanation"></string>
+    <string name="question_149_translated">false</string>
+
+    <string name="question_150_question">Un suono:</string>
+    <string name="question_150_answer1">si propaga solo nell\'aria</string>
+    <string name="question_150_answer2">ha la velocità vicina alla velocità della luce</string>
+    <string name="question_150_answer3">ha sempre frequenza definita</string>
+    <string name="question_150_answer4">può essere prodotto con una corda</string>
+    <string name="question_150_answer5">può essere prodotto con una sorgente elettromagnetica</string>
+    <string name="question_150_explanation"></string>
+    <string name="question_150_translated">false</string>
+
+    <string name="question_151_question">A temperatura costante, se la pressione raddoppia, il volume di un gas perfetto:</string>
+    <string name="question_151_answer1">rimane invariato perché è ben noto che il volume di un gas dipende solo dalla temperatura</string>
+    <string name="question_151_answer2">se il gas è compresso esso si scalda e la temperatura non può rimanere costante</string>
+    <string name="question_151_answer3">dimezza</string>
+    <string name="question_151_answer4">raddoppia</string>
+    <string name="question_151_answer5">quadruplica</string>
+    <string name="question_151_explanation"></string>
+    <string name="question_151_translated">false</string>
+
+    <string name="question_152_question">Quando l\'acqua solidifica in una conduttura, si può verificare la rottura dei tubi; ciò avviene:</string>
+    <string name="question_152_answer1">perché nella solidificazione l\'acqua diviene corrosiva</string>
+    <string name="question_152_answer2">perché nella solidificazione l\'acqua aumenta di temperatura</string>
+    <string name="question_152_answer3">perché nel passaggio allo stato solido il volume dell\'acqua diminuisce creando vuoti dannosi</string>
+    <string name="question_152_answer4">se i tubi sono di grosso diametro</string>
+    <string name="question_152_answer5">perché nel passaggio allo stato solido il volume dell\'acqua aumenta</string>
+    <string name="question_152_explanation"></string>
+    <string name="question_152_translated">false</string>
+
+    <string name="question_153_question">A due corpi, alla stessa temperatura, viene fornita la stessa quantità di calore. Al termine del riscaldamento
+i due corpi avranno ancora pari temperatura se:</string>
+    <string name="question_153_answer1">hanno la stessa massa e lo stesso volume</string>
+    <string name="question_153_answer2">hanno lo stesso calore specifico e la stessa massa</string>
+    <string name="question_153_answer3">hanno lo stesso volume e lo stesso calore specifico</string>
+    <string name="question_153_answer4">il calore è stato fornito ad essi allo stesso modo</string>
+    <string name="question_153_answer5">entrambi si trovano nel vuoto</string>
+    <string name="question_153_explanation"></string>
+    <string name="question_153_translated">false</string>
+
+    <string name="question_154_question">Una data quantità di gas perfetto, contenuto in un recipiente a pareti rigide, viene riscaldata dalla
+temperatura di 27 °C a quella di 127 °C. La sua pressione è aumentata di un fattore:</string>
+    <string name="question_154_answer1">2</string>
+    <string name="question_154_answer2">4/3</string>
+    <string name="question_154_answer3">3/2</string>
+    <string name="question_154_answer4">10</string>
+    <string name="question_154_answer5">100</string>
+    <string name="question_154_explanation"></string>
+    <string name="question_154_translated">false</string>
+
+    <string name="question_155_question">Estraendo da un frigo un recipiente chiuso e contenente acqua fredda si osserva, dopo qualche minuto, che
+sulla superficie esterna si formano delle goccioline d\'acqua. Tale fenomeno è dovuto:</string>
+    <string name="question_155_answer1">al vapore d\'acqua atmosferico che condensa sulle pareti fredde del recipiente</string>
+    <string name="question_155_answer2">al raccogliersi in goccioline di un velo d\'acqua che si era depositata sul recipiente mentre era all\'interno del frigo</string>
+    <string name="question_155_answer3">all\'acqua che trasuda attraverso le pareti del recipiente</string>
+    <string name="question_155_answer4">nessuna delle altre risposte</string>
+    <string name="question_155_answer5">all\'effetto di sovrappressione interna</string>
+    <string name="question_155_explanation"></string>
+    <string name="question_155_translated">false</string>
+
+    <string name="question_156_question">Detti rispettivamente P e V la pressione ed il volume di un gas perfetto si ha che:</string>
+    <string name="question_156_answer1">PV = costante comunque vari la temperatura</string>
+    <string name="question_156_answer2">P/V = costante comunque vari la temperatura</string>
+    <string name="question_156_answer3">PV = costante a temperatura costante</string>
+    <string name="question_156_answer4">P/V = costante a temperatura costante</string>
+    <string name="question_156_answer5">V/P = costante comunque vari la temperatura</string>
+    <string name="question_156_explanation"></string>
+    <string name="question_156_translated">false</string>
+
+    <string name="question_157_question">La quantità di calore necessaria per innalzare la temperatura di 1 kg d\'acqua da 14,5 °C a 15,5 °C è:</string>
+    <string name="question_157_answer1">1 kcal</string>
+    <string name="question_157_answer2">4,18 kcal</string>
+    <string name="question_157_answer3">1000 kcal</string>
+    <string name="question_157_answer4">1 J</string>
+    <string name="question_157_answer5">4,18 J</string>
+    <string name="question_157_explanation"></string>
+    <string name="question_157_translated">false</string>
+
+    <string name="question_158_question">La densità di un corpo:</string>
+    <string name="question_158_answer1">dipende dalla latitudine</string>
+    <string name="question_158_answer2">è una costante</string>
+    <string name="question_158_answer3">è eguale al peso specifico</string>
+    <string name="question_158_answer4">dipende dalla temperatura</string>
+    <string name="question_158_answer5">è uguale alla costante dei gas perfetti</string>
+    <string name="question_158_explanation"></string>
+    <string name="question_158_translated">false</string>
+
+    <string name="question_159_question">La temperatura di ebollizione di un liquido ad una data pressione:</string>
+    <string name="question_159_answer1">dipende esclusivamente dal tipo di liquido che si considera</string>
+    <string name="question_159_answer2">dipende dalla massa del liquido</string>
+    <string name="question_159_answer3">dipende dalla quantità di calore assorbito</string>
+    <string name="question_159_answer4">dipende sia dal tipo di liquido che dalla quantità di calore assorbito</string>
+    <string name="question_159_answer5">dipende dal volume di liquido</string>
+    <string name="question_159_explanation"></string>
+    <string name="question_159_translated">false</string>
+
+</resources>
